@@ -25,7 +25,8 @@
 ---
 
 ### 🚀 Core Projects
-- 🛠 **Credos Executor** - High-performance software & reverse engineering.
-- 🌐 **NoxMc Network** - Advanced Minecraft server infrastructures.
+- 🛠 **Credos Project** - Suite of tools, executors, and custom software solutions.
+- 📂 **System Utilities** - High-performance Windows Form applications and system tools.
+- 🛡 **Security & Analysis** - Reverse engineering and software protection research.
 
 </div>
